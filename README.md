@@ -1,6 +1,16 @@
 # Disaster Tweets
 Natural Language Processing with Disaster Tweets using BERT
 
+## Introduction (Copied from Kaggle)
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
+<p align="center">
+  <img width="200" height="400" src=images/tweet.png>
+</p>
+The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
+
 ## Hardware
 GPU will be preferred
 
@@ -9,7 +19,7 @@ Free GPU can be used through Google colab, by changing runtime type to GPU
 ## Dataset
 Dataset can be found from https://www.kaggle.com/competitions/nlp-getting-started/data
 
-This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here: https://appen.com/pre-labeled-datasets/
+This dataset was created by the company figure-eight and originally shared on their [‘Data For Everyone’ website here](https://appen.com/pre-labeled-datasets/)
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
