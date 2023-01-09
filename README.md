@@ -23,6 +23,23 @@ This dataset was created by the company figure-eight and originally shared on th
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
+## Architecture of Neural Network
+<p align="center">
+  <img width="460" height="700" src=images/model_layout.PNG>
+</p>
+
+## Result
+The model was ranked 33th out of a total of 812
+teams participating in the Twitter Disaster contest in these
+two months
+<p align="center">
+  <img width="460" height="70" src=images/leaderboard.png>
+</p>
+
+<p align="center">
+  <img width="460" height="300" src=images/matrix.PNG>
+</p>
+
 ## Reference
 Kaggle. Natural Language Processing with Dis- aster Tweets. Retrieved April 01, 2022 from https://www.kaggle.com/c/nlp-getting-started.
 
