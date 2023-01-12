@@ -12,9 +12,9 @@ But, it’s not always clear whether a person’s words are actually announcing 
 The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
 
 ## Hardware
-GPU will be preferred
+GPU is preferred
 
-Free GPU can be used through Google colab, by changing runtime type to GPU
+Free GPU can be used through Google Colab, by changing runtime type to GPU
 
 ## Dataset
 Dataset can be found from https://www.kaggle.com/competitions/nlp-getting-started/data
